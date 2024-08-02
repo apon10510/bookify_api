@@ -3,7 +3,7 @@
       {
         "id": 1,
         "title": "Book One",
-        "image": "https://example.com/image1.jpg",
+        "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
         "episodes": [
           {
             "episode_id": 1,
@@ -25,7 +25,7 @@
       {
         "id": 2,
         "title": "Book Two",
-        "image": "https://example.com/image2.jpg",
+        "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
         "episodes": [
           {
             "episode_id": 1,
@@ -47,7 +47,7 @@
       {
         "id": 3,
         "title": "Book Three",
-        "image": "https://example.com/image3.jpg",
+        "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
         "episodes": [
           {
             "episode_id": 1,
@@ -69,7 +69,7 @@
       {
         "id": 4,
         "title": "Book Four",
-        "image": "https://example.com/image4.jpg",
+        "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
         "episodes": [
           {
             "episode_id": 1,
