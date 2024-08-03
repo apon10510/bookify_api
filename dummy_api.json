@@ -9,17 +9,8 @@
             "episode_id": 1,
             "title": "Episode 1",
             "audio_url": "https://example.com/audio1_1.mp3"
-          },
-          {
-            "episode_id": 2,
-            "title": "Episode 2",
-            "audio_url": "https://example.com/audio1_2.mp3"
-          },
-          {
-            "episode_id": 3,
-            "title": "Episode 3",
-            "audio_url": "https://example.com/audio1_3.mp3"
           }
+         
         ]
       },
       {
