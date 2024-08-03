@@ -4,7 +4,7 @@
           "id": 1,
           "title": "Book One",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -17,7 +17,7 @@
           "id": 2,
           "title": "Book Two",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -40,7 +40,7 @@
           "id": 3,
           "title": "Book Three",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -63,7 +63,7 @@
           "id": 4,
           "title": "Book Four",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -86,7 +86,7 @@
           "id": 5,
           "title": "Book Five",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -109,7 +109,7 @@
           "id": 6,
           "title": "Book Six",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -132,7 +132,7 @@
           "id": 7,
           "title": "Book Seven",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -155,7 +155,7 @@
           "id": 8,
           "title": "Book Eight",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -178,7 +178,7 @@
           "id": 9,
           "title": "Book Nine",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
@@ -201,7 +201,7 @@
           "id": 10,
           "title": "Book Ten",
           "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
-          "bookCretorName": "রবীন্দ্রনাথ ঠাকুর",
+          "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
           "episodes": [
               {
                   "episode_id": 1,
