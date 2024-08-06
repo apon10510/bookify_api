@@ -92,7 +92,6 @@
           "audio_url": "https://www.youtube.com/watch?v=s_3oY9MK6S4&list=PLdq2w1_AHPCu4GaXvolSKAw3IxLvfNSEU&index=1",
           "voice_owner": "BengaliClassicsByArnab"
         },
-
         {
           "episode_id": 4,
           "title": "চোখের বালি ৪",
@@ -115,131 +114,107 @@
     },
     {
       "id": 6,
-      "title": "Book Six",
-      "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
+      "title": "যোগাযোগ",
+      "image": "https://i.postimg.cc/zv1cWGZH/Jogajog.jpg",
       "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
       "episodes": [
         {
           "episode_id": 1,
-          "title": "Episode 1",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
+          "title": "যোগাযোগ ১",
+          "audio_url": "https://www.youtube.com/watch?v=8qpCOic4kX0",
+          "voice_owner": "galpoanukalpo8031"
         },
         {
           "episode_id": 2,
-          "title": "Episode 2",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
+          "title": "যোগাযোগ ২",
+          "audio_url": "https://www.youtube.com/watch?v=dafnWH5Q8cY",
+          "voice_owner": "galpoanukalpo8031"
         },
         {
           "episode_id": 3,
-          "title": "Episode 3",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
+          "title": "যোগাযোগ ৩",
+          "audio_url": "https://www.youtube.com/watch?v=7Gu8Pn5Hg-A",
+          "voice_owner": "galpoanukalpo8031"
+        },
+        {
+          "episode_id": 4,
+          "title": "যোগাযোগ ৪",
+          "audio_url": "https://www.youtube.com/watch?v=lvPp-UBK4YY",
+          "voice_owner": "galpoanukalpo8031"
+        },
+        {
+          "episode_id": 5,
+          "title": "যোগাযোগ ৫",
+          "audio_url": "https://www.youtube.com/watch?v=36XLDbA05-A",
+          "voice_owner": "galpoanukalpo8031"
+        },
+        {
+          "episode_id": 6,
+          "title": "যোগাযোগ ৬",
+          "audio_url": "https://www.youtube.com/watch?v=LBOdKu8ys4Y",
+          "voice_owner": "galpoanukalpo8031"
         }
       ]
     },
     {
       "id": 7,
-      "title": "Book Seven",
-      "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
+      "title": "শেষের কবিতা",
+      "image": "https://i.postimg.cc/pyNRmFPN/Shesher-Kobita.jpg",
       "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
       "episodes": [
         {
           "episode_id": 1,
-          "title": "Episode 1",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
+          "title": "শেষের কবিতা ১",
+          "audio_url": "https://www.youtube.com/watch?v=jfEjCdT3_JY",
+          "voice_owner": "sahityasamahar"
         },
         {
           "episode_id": 2,
-          "title": "Episode 2",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
-        },
-        {
-          "episode_id": 3,
-          "title": "Episode 3",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
+          "title": "শেষের কবিতা ২",
+          "audio_url": "https://www.youtube.com/watch?v=E78HzeQe5qQ",
+          "voice_owner": "sahityasamahar"
         }
       ]
     },
     {
       "id": 8,
-      "title": "Book Eight",
-      "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
+      "title": "মালঞ্চ",
+      "image": "https://i.postimg.cc/mZqFRpfq/Malancha.jpg",
       "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
       "episodes": [
         {
           "episode_id": 1,
-          "title": "Episode 1",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
-        },
-        {
-          "episode_id": 2,
-          "title": "Episode 2",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
-        },
-        {
-          "episode_id": 3,
-          "title": "Episode 3",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
+          "title": "মালঞ্চ",
+          "audio_url": "https://www.youtube.com/watch?v=I5pMCMredy0",
+          "voice_owner": "kathakkausik"
         }
       ]
     },
     {
       "id": 9,
-      "title": "Book Nine",
-      "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
+      "title": "চতুরঙ্গ",
+      "image": "https://i.postimg.cc/pXcv34wh/chaturanga.jpg",
       "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
       "episodes": [
         {
           "episode_id": 1,
-          "title": "Episode 1",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
-        },
-        {
-          "episode_id": 2,
-          "title": "Episode 2",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
-        },
-        {
-          "episode_id": 3,
-          "title": "Episode 3",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
+          "title": "চতুরঙ্গ",
+          "audio_url": "https://www.youtube.com/watch?v=VOJosjBVemY",
+          "voice_owner": "GolpoNeer"
         }
       ]
     },
     {
       "id": 10,
-      "title": "Book Ten",
-      "image": "https://i.postimg.cc/nzFNMvyZ/momotadi.jpg",
+      "title": "সুভা",
+      "image": "https://i.postimg.cc/CLRMMwHH/subha.jpg",
       "bookCreatorName": "রবীন্দ্রনাথ ঠাকুর",
       "episodes": [
         {
           "episode_id": 1,
-          "title": "Episode 1",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
-        },
-        {
-          "episode_id": 2,
-          "title": "Episode 2",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
-        },
-        {
-          "episode_id": 3,
-          "title": "Episode 3",
-          "audio_url": "https://www.youtube.com/watch?v=k2qgadSvNyU",
-          "voice_owner": "BankuraMemesShorts"
+          "title": "সুভা",
+          "audio_url": "https://www.youtube.com/watch?v=4hKy3-MRs_s&t",
+          "voice_owner": "BengaliClassicsByArnab"
         }
       ]
     }
