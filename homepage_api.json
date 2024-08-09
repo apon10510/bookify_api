@@ -1,0 +1,24 @@
+{
+    "HomePageApi": [
+        {
+            "api": "https://castor-parachutes.000webhostapp.com/apiforlink.php?token=1z14ecxgs1tbt9cb54sa",
+            "bookType": "রবীন্দ্রনাথ ঠাকুর",
+            "saveKey": "save_bangladesh"
+        },
+        {
+            "api": "https://castor-parachutes.000webhostapp.com/apiforlink.php?token=1z14ecxgs1tbt9cb54sa",
+            "bookType": "Robi",
+            "saveKey": "Robi"
+        },
+        {
+            "api": "https://castor-parachutes.000webhostapp.com/apiforlink.php?token=1z14ecxgs1tbt9cb54sa",
+            "bookType": "Soni",
+            "saveKey": "Soni"
+        },
+        {
+            "api": "https://castor-parachutes.000webhostapp.com/apiforlink.php?token=1z14ecxgs1tbt9cb54sa",
+            "bookType": "Som",
+            "saveKey": "Som"
+        }
+    ]
+}
